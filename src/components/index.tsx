@@ -2,8 +2,7 @@ import * as React from 'react'
 
 interface Props { }
 
-const MyComponent: React.FunctionComponent<Props> = () => (
-    <div role='heading'>My First Component</div>
+const Skeleton: React.FunctionComponent<Props> = () => (
+    <div role='heading'>library-skeleton</div>
 )
-
-export default MyComponent
+export default Skeleton

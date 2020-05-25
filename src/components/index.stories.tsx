@@ -1,7 +1,7 @@
 
 import * as React from 'react'
-import MyComponent from './index'
+import Skeleton from './index'
 
 export default { title: 'index' }
 
-export const demo = () => <MyComponent />
+export const demo = () => <Skeleton />

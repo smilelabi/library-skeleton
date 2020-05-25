@@ -1,3 +1,3 @@
-import MyComponent from './components/index'
+import Skeleton from './components/index'
 
-export { MyComponent }
+export { Skeleton }
