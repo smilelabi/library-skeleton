@@ -15,7 +15,7 @@ test
 npm run test
 ```
 
-run Storybook
+storybook
 
 ```
 npm run Storybook 
